@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JnBLyWCbwe/LNIVA3GITz6oUQLo/q45DKhN3Z77GYkQVAq3sObTFtnBQYk/aK4H2VrAp5hydHUpglQPEM8zmjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\TDD Manner\\RoomBookingApp-TDD\\BookYourRoom.Core\\BookYourRoom.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
